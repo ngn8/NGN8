@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="140" viewBox="0 0 1400 140">
+  <rect x="26" y="26" width="1348" height="88" fill="#F4F2ED" stroke="#111111" stroke-width="4"/>
+  <text x="56" y="86" fill="#111111"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+        font-size="18" letter-spacing="2">FIELD TESTED // NGN8 SYSTEMS / 2025</text>
+  <text x="1344" y="86" fill="#111111" text-anchor="end"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+        font-size="18" letter-spacing="2">DEFINED BY CODE</text>
+</svg>
