@@ -61,7 +61,7 @@
 
 > **Important**  
 > Add your PDF to `assets/NGN8_Resume.pdf` and uncomment the link below.
-<!-- [Download my resume](./assets/NGN8_Resume.pdf) -->
+[Download my resume](./assets/NGN8_Resume.pdf)
 
 <p align="center">
   <img src="./assets/ngn8-footer.svg" width="100%" alt="NGN8 footer" />
