@@ -33,7 +33,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img alt="skills" src="https://skillicons.dev/icons?i=react,typescript,tailwind,nextjs,framer,nodejs,firebase,postgres,python,git,docker,vite,figma&perline=13&theme=dark" />
+    <img alt="skills" src="https://skillicons.dev/icons?i=py,js,typescript,latex,matlab,nodejs,npm,vite,vite,react,nextjs,threejs,framer,tailwind,tauri,aws,vercel,firebase,postgres,git,docker,redhat,vscode,pycharm,sublime,figma&perline=13&theme=dark" />
   </a>
 </p>
 
