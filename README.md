@@ -31,7 +31,7 @@
   <img src="./assets/ngn8-arsenal.svg" width="100%" alt="Technical arsenal" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img alt="skills" src="https://skillicons.dev/icons?i=py,js,typescript,latex,matlab,nodejs,npm,vite,vite,react,nextjs,threejs,framer,tailwind,tauri,aws,vercel,firebase,postgres,git,docker,redhat,vscode,pycharm,sublime,figma&perline=13&theme=dark" />
   </a>
