@@ -45,7 +45,3 @@
     <img src="./assets/ngn8-resume-btn.svg" height="42" alt="Download resume" />
   </a>
 </p>
-
-<p align="center">
-  <img src="./assets/ngn8-footer.svg" width="100%" alt="NGN8 footer" />
-</p>
