@@ -20,7 +20,7 @@
   <img src="./assets/ngn8-projects.svg" width="100%" alt="Selected projects" />
 </p>
 
-<p align="left">
+<p align="center">
   <b>1099Ready</b> — https://1099ready.app<br/>
   <b>Tablefy</b> — https://tablefy.net
 </p>
