@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <b>1099Ready</b> — https://1099ready.app<br/>
-  <b>Tablefy</b> — https://tablefy.net
+  <a href="https://1099ready.app">1099Ready</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://tablefy.net">Tablefy</a>&nbsp;&nbsp;•&nbsp;&nbsp;
 </p>
 
 <br/>
