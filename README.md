@@ -37,25 +37,7 @@
   </a>
 </p>
 
----
 
-<details>
-  <summary><b>Signals</b></summary>
-  <br/>
-  <p align="center">
-    <img height="150" alt="stats"
-      src="https://github-readme-stats.vercel.app/api?username=NGN8&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
-    <img height="150" alt="streak"
-      src="https://streak-stats.demolab.com?user=NGN8&hide_border=true&theme=transparent" />
-  </p>
-
-  <p align="center">
-    <img alt="snake"
-      src="https://raw.githubusercontent.com/NGN8/NGN8/output/github-contribution-grid-snake.svg" />
-  </p>
-</details>
-
----
 
 ### Employer?
 <p align="left">
