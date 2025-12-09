@@ -17,7 +17,7 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/ngn8-projects.svg" width="100%" alt="Selected projects" />
+  <img src="./assets/ngn8-projects.svg" width="125%" alt="Selected projects" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/ngn8-arsenal.svg" width="110%" alt="Technical arsenal" />
+  <img src="./assets/ngn8-arsenal.svg" width="100%" alt="Technical arsenal" />
 </p>
 
 <p align="left">
