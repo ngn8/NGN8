@@ -58,9 +58,6 @@
 ---
 
 ### Employer?
-
-> **Important**  
-> Add your PDF to `assets/NGN8_Resume.pdf` and uncomment the link below.
 [Download my resume](./assets/NGN8_Resume.pdf)
 
 <p align="center">
