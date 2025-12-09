@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://1099ready.app">1099Ready</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://tablefy.net">Tablefy</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://tablefy.net">Tablefy</a>
 </p>
 
 <br/>
