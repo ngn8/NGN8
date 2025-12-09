@@ -40,7 +40,7 @@
 
 
 ### Employer?
-<p align="left">
+<p align="center">
   <a href="./assets/NGN8_Resume.pdf">
     <img src="./assets/ngn8-resume-btn.svg" height="42" alt="Download resume" />
   </a>
